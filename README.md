@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is June
 ### Data Analyst | Writer | Freelancer
 
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/chingjunetao/chingjunetao.github.io/master/assets/images/aboutPage/aboutBanner.jpg)
-
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/chingjunetao/chingjunetao/main/assets/aboutBanner.jpg)
 
 
 🍀 I am passionate about combining data with statistics and programming to generate actionable insight and solve business problem.   
@@ -16,7 +15,7 @@ Other Platforms: Google BigQuery, Google Analytics, Google Search Console
 
 <br/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chingjunetao/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chingjunetao) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@chingjunetao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](chingjunetao.github.io) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chingjunetao/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chingjunetao) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@chingjunetao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chingjunetao.github.io) 
 
 <br/> 
 
