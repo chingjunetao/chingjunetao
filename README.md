@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is June
-### Data Analyst | Writer | Freelancer
+### Data Analyst | Writer
 
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/chingjunetao/chingjunetao/main/assets/aboutBanner.jpg)
 
