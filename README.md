@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi there 👋, my name is June
+### Data Analyst | Writer | Freelancer
+
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/chingjunetao/chingjunetao.github.io/master/assets/images/aboutPage/aboutBanner.jpg)
+
+
+
+🍀 I am passionate about combining data with statistics and programming to generate actionable insight and solve business problem.   
+📚 I write about data analytics and python programming at [Medium](https://medium.com/@chingjunetao).   
+📫 Feel free to connect with me at [LinkedIn](https://www.linkedin.com/in/chingjunetao/) or [Twitter](https://twitter.com/chingjunetao).
+
+
+Skills: Python, SQL, C#, C++, R     
+Visualisation Tools: Tableau, Looker, Google Data Studio   
+Other Platforms: Google BigQuery, Google Analytics, Google Search Console   
+
+<br/>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chingjunetao/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chingjunetao) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@chingjunetao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](chingjunetao.github.io) 
+
+<br/> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chingjunetao&show_icons=true)  
+
 
 <!--
 **chingjunetao/chingjunetao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
