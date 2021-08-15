@@ -6,7 +6,8 @@
 
 🍀 I am passionate about combining data with statistics and programming to generate actionable insight and solve business problem.   
 📚 I write about data analytics and python programming at [Medium](https://medium.com/@chingjunetao).   
-📫 Feel free to connect with me at [LinkedIn](https://www.linkedin.com/in/chingjunetao/) or [Twitter](https://twitter.com/chingjunetao).
+📫 Feel free to connect with me at [LinkedIn](https://www.linkedin.com/in/chingjunetao/) or [Twitter](https://twitter.com/chingjunetao). 
+🌱 Reach out to me for Freelance Analytics Consulting and Google Cloud Platform
 
 
 Skills: Python, SQL, C#, C++, R     
